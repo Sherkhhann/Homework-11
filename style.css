@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+}
+.left{
+    width: 240px;
+    height: 800px;
+    background-color: #f1f1f1;
+    padding-bottom:;
+    height: 100%;
+    margin-left: 100px;
+    position: sticky;
+    top: 0;
+}
+.left1{
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+}
+.left h1{
+    font-size: 24px;
+    padding-bottom: 20px;
+    line-height: 45px;
+    padding-top: 20px;
+}
+.left p{
+    padding: 10px 0px;
+}
+.left label{
+    font-size: 15px;
+    padding: 10px 0px;
+    line-height: 55px;
+}
+input{
+    padding: 8px;
+}
+.div1{
+    width: 240px;
+}
+.div1 div{
+    width: 240px;
+    background-color: #f1f1f1;
+    padding: 20px 0px;
+}
+.ap:hover{
+    background-color: lightgray;
+}
+.sub:hover{
+    background-color: lightgray;
+}
+.con:hover{
+    background-color: lightgray;
+}
+.div1 div a{
+    text-decoration: none;
+    color: black;
+}
+.div1 i{
+    padding-left: 20px;
+}
+.sub{
+    padding-left: 20px;
+}
+.con{
+    padding-left: 20px;
+}
+.a1{
+    padding: 20px 0px;
+}
+.right{
+    margin-left: 15px;
+    width: 960px;
+}
+form{
+    padding-bottom: 20px;
+}
+.left button{
+    background-color: #4caf50;
+    padding: 8px 25px;
+    border-color: #4caf50;
+    color: white;
+}
+.left button:hover{
+    background-color: lightgray;
+    padding: 8px 25px;
+    border-color: lightgrey;
+    color: black;
+}
+.right1{
+    display: flex;
+    width: 65%;
+    justify-content: space-between;
+}
+.right1 img{
+    width: 23%;
+}
+.im1{
+    width: 65%;
+}
+.con1 h1{
+    font-size: 30px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: 400;
+    color: #4CAF50;
+    margin: 10px 0px;
+}
+.imm1 p{
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 20px 20px;
+    background-color: black;
+    color: white;
+    width: 100px;
+    position: absolute;
+    bottom: 10px;
+}
+.imm1{
+    position: relative;
+}
+.opa{
+    opacity: 0.5;
+}
+.opa:hover{
+    opacity: 1;
+}
+.tab{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+.container h4{
+    font-size: 20px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.tab p{
+    padding: 13px 0px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+hr{
+    margin: 15px;
+}
+.container2 h4{
+    font-size: 20px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.container2 p{
+    font-size: 15px;
+    line-height: 1.5;
+}
+.subscribe{
+    padding: 10px 80px;
+    background-color: #4caf50;
+    border-color: #4CAF50;
+    color: white;
+}
+.subscribe:hover{
+    padding: 10px 80px;
+    background-color: lightgray;
+    border-color: lightgray;
+    color: black;
+}
+.mcon{
+    width: 65%;
+}
+.but{
+    padding: 15px 0px;
+}
+.mcon h4{
+    padding: 20px 0px;
+}
+.footer p{
+    padding: 10px 0px;
+}
+.footer h1{
+    padding: 10px 0px;
+    font-size: 30px;
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+.footer button{
+    padding: 10px 55px;
+    background-color: #4caf50;
+    border-color: #4CAF50;
+    color: white;
+}
+.footer button:hover{
+    background-color: lightgray;
+    border-color: lightgray;
+    color: black;
+}
+label{
+    margin: 10px 0px;
+}
+input{
+    margin: 8px 0px;
+    width: 60%;
+    padding: 5px 3px;
+}
+.footer2{
+    padding: 40px 0px;
+}
